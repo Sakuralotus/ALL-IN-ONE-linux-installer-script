@@ -1,4 +1,4 @@
-# automatically-linux-script
+# ALL-IN-ONE-linux-installer-script
 This script is for linux os centos 7 can fast to install many things
 
 How to use
