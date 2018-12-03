@@ -14,4 +14,5 @@ Must have root permission so type those command to have
 If have bug or some you want to ask or told 
 
 Please send email to seasonmcpe@gmail.com
+
 If is the bug problem can open issues to ask
