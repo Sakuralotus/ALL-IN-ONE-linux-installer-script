@@ -1,4 +1,4 @@
-
+#This version only can install minecraft server
 
 #Check Root
 [ $(id -u) != "0" ] && { echo "Error: 給他root一下"; exit 1; }
