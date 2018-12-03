@@ -5,9 +5,9 @@ This script is for linux os centos 7 can fast to install many things
 
 Must have root permission so type those command to have
 
-# chmod 777 start.sh
+#chmod 777 start.sh
 
-# ./start.sh
+#./start.sh
 
 ☆Done!!!!☆
 
