@@ -1,15 +1,15 @@
 # ALL-IN-ONE-linux-installer-script
 This script is for linux os centos 7 can fast to install many things
 
-How to use
+# How to use
 
-Must have root permission
+Must have root permission so type those command to have
 
-#chmod 777 start.sh
+# chmod 777 start.sh
 
-#./start.sh
+# ./start.sh
 
-Done!!!!
+☆Done!!!!☆
 
 If have bug or some you want to ask or told 
 
