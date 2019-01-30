@@ -1,14 +1,9 @@
-
-
-#Check Root
-[ $(id -u) != "0" ] && { echo "Error: 給他root一下Must be root"; exit 1; }
-
 echo "歡迎使用 ALL-IN-ONE安裝腳本 v0.1"
 
 echo "Welcome to use ALL-IN-ONE install script v0.1"
 
 echo '腳本最新地址'
-echo 'Script lartest download'
+echo 'Script lastest download'
 echo 'https://github.com/Sakuralotus/automatically-linux-script'
 echo   ---------------Language Select 語言選擇----------
 echo "1.English"
