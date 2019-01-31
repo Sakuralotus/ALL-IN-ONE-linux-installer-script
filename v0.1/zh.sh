@@ -1,8 +1,5 @@
 
 
-#Check Root
-[ $(id -u) != "0" ] && { echo "Error: 給他root一下"; exit 1; }
-
 echo "歡迎使用 全自動安裝腳本 v0.1"
 
 echo '腳本最新地址'
