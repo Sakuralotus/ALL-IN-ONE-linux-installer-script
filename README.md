@@ -1,3 +1,4 @@
+ONLY CAN USE FOR LINUX CENTOS6~HIGHER
 Updata
 1.Language select
 Chinese
